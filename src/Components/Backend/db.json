@@ -1,0 +1,30 @@
+{
+  "branch": [
+    {
+      "dateofAdmit": "2022-07-26",
+      "id": 0,
+      "medOrders": [
+        {
+          "deliveryDate": "2022-07-26",
+          "id": 0,
+          "items": [
+            {
+              "cost": 0,
+              "id": 0,
+              "name": "string",
+              "qty": 0
+            }
+          ],
+          "msg": "string",
+          "orderDate": "2022-07-26",
+          "total": 0
+        }
+      ],
+      "reason": "string"
+    },
+    {
+      "reason": "Autem officia illum",
+      "id": 1
+    }
+  ]
+}

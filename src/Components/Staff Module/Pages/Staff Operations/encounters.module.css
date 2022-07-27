@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+:root{
+    --font: font-family: 'Poppins', sans-serif;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #F5F5F5;
+}
+
+.mainBg{
+
+    background-image:url('../../Assets/Images/encounter-1.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 20rem;
+    width: 100%;
+}
+
+
+.mainText{
+    
+    width: 40rem;
+    margin-left: 27%;
+    text-transform: capitalize;
+    font-weight: 900;
+    position: absolute;
+    top: 35%;
+    /* margin-top: 20%; */
+}
+
+.mainText h1{
+    
+    text-align: center;
+    color: #33D687;
+    font-family: 'Poppins', sans-serif;
+}
+
+.encountersHeader{
+
+    height: 6rem;
+}
+.encountersHeader h1{
+
+    text-align: center;
+margin-top: 2rem;
+}
+
+/* .encounterForm{
+
+    width: 40%;
+    /* background-color: #33D687; */
+    /* margin-left: 10rem; */
+    /* border-radius: 50%;
+    height: 28rem;
+    width: 28rem;
+     */
+ 
+/* }
+
+.encounterForm form{
+
+    width: 60%;
+    margin-left: 20%;
+    padding-top: 4rem;
+
+
+
+   
+} */
+
+.encounterForm{
+
+    width: 40%;
+    
+    margin-left: 5rem;
+    /* border: #33D687 solid 1px; */
+    /* border-right: #33D687 solid 1px; */
+    
+    
+    border-radius: 20px;
+    padding-top: 50px;
+    /* padding-left: -40px; */
+    /* background-color: #6fffb9; */
+    background-color: white;
+}
+
+.encounterForm form{
+ 
+    width: 70%;
+    margin: auto;
+    /* margin-left: 5rem; */
+    
+
+}
+
+.encounterForm form button{
+
+    margin: 30px 9rem;
+}
+
+.encounterDate
+{
+
+    width: 25ch;
+    margin-left: 4.3rem;
+}
+
+.formImg{
+
+    margin-left: 3rem;
+
+}
+
+.formImg img{
+
+    height: 25rem;
+    margin-left: 10rem;
+}
+
+/* .vertLine{
+
+    height: 100%;
+    width: 30px;
+    background-color: #33D687;
+
+} */
+ 
